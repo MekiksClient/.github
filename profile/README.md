@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" width="120" alt="MekiksClient">
-</p>
-
 <h1 align="center">MekiksClient</h1>
 
 <p align="center">
