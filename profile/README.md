@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/logo.png" width="120" alt="MekiksClient">
+  <img src="logo.png" width="120" alt="MekiksClient">
 </p>
 
 <h1 align="center">MekiksClient</h1>
