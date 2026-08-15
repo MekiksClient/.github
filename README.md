@@ -1,8 +1,13 @@
-# MekiksClient
+<p align="center">
+  <img src=".github/logo.png" width="120" alt="MekiksClient">
+</p>
 
-A free Minecraft: Java Edition client for Windows — built for performance, customisation, and a cleaner way to play.
+<h1 align="center">MekiksClient</h1>
 
-**[Download at mekiks.com](https://mekiks.com)**
+<p align="center">
+  A free Minecraft: Java Edition client for Windows.<br>
+  <a href="https://mekiks.com"><b>Download at mekiks.com</b></a>
+</p>
 
 ---
 
