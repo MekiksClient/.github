@@ -10,10 +10,7 @@ Mods you toggle in-game, skies you actually pick, skins you swap on the fly, and
 
 <a href="https://mekiks.com/download"><img src="https://img.shields.io/badge/Download%20for%20Windows-b06f42?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a> &nbsp; <a href="https://discord.gg/2wk6erxU78"><img src="https://img.shields.io/badge/Join%20the%20Discord-1e1c22?style=for-the-badge&logo=discord&logoColor=d08a5a" alt="Join the Discord"></a>
 
-<a href="https://mekiks.com"><img src="https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fmekiks.com%2Ffeed%2Flatest.yml&query=%24.version&label=version&color=b06f42&style=flat-square" alt="Latest version"></a>
-<a href="https://mekiks.com"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmekiks.com%2Fapi%2Fonline&query=%24.online&label=playing%20now&color=22c55e&style=flat-square" alt="Players online"></a>
-<a href="https://mekiks.com"><img src="https://img.shields.io/badge/Windows%2010%20%2F%2011-8a5533?style=flat-square" alt="Windows 10 and 11"></a>
-<a href="https://mekiks.com"><img src="https://img.shields.io/badge/price-free-8a5533?style=flat-square" alt="Free"></a>
+<a href="https://mekiks.com"><img src="https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fmekiks.com%2Ffeed%2Flatest.yml&query=%24.version&label=version&color=b06f42&style=flat-square" alt="Latest version"></a> <a href="https://mekiks.com"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmekiks.com%2Fapi%2Fonline&query=%24.online&label=playing%20now&color=22c55e&style=flat-square" alt="Players online"></a> <a href="https://mekiks.com"><img src="https://img.shields.io/badge/Windows%2010%20%2F%2011-8a5533?style=flat-square" alt="Windows 10 and 11"></a> <a href="https://mekiks.com"><img src="https://img.shields.io/badge/price-free-8a5533?style=flat-square" alt="Free"></a>
 
 <br>
 
