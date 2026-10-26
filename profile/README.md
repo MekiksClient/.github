@@ -8,9 +8,9 @@
 
 Mods you toggle in-game, skies you actually pick, skins you swap on the fly, and a launcher that updates itself.
 
-<a href="https://mekiks.com/download"><img src="https://img.shields.io/badge/Download%20MekiksClient-b06f42?style=for-the-badge" alt="Download MekiksClient"></a> &nbsp; <a href="https://discord.gg/2wk6erxU78"><img src="https://img.shields.io/badge/Join%20the%20Discord-1e1c22?style=for-the-badge&logo=discord&logoColor=d08a5a" alt="Join the Discord"></a>
+<a href="https://mekiks.com"><img src="https://img.shields.io/badge/Get%20it%20at%20mekiks.com-b06f42?style=for-the-badge" alt="Get it at mekiks.com"></a> &nbsp; <a href="https://discord.gg/2wk6erxU78"><img src="https://img.shields.io/badge/Join%20the%20Discord-1e1c22?style=for-the-badge&logo=discord&logoColor=d08a5a" alt="Join the Discord"></a>
 
-<a href="https://mekiks.com"><img src="https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fmekiks.com%2Ffeed%2Flatest.yml&query=%24.version&label=version&color=b06f42&style=flat-square" alt="Latest version"></a> <a href="https://mekiks.com"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmekiks.com%2Fapi%2Fonline&query=%24.online&label=playing%20now&color=22c55e&style=flat-square" alt="Players online"></a> <a href="https://mekiks.com/download"><img src="https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Ubuntu-8a5533?style=flat-square" alt="Windows, macOS and Ubuntu"></a> <a href="https://mekiks.com"><img src="https://img.shields.io/badge/price-free-8a5533?style=flat-square" alt="Free"></a>
+<a href="https://mekiks.com"><img src="https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fmekiks.com%2Ffeed%2Flatest.yml&query=%24.version&label=version&color=b06f42&style=flat-square" alt="Latest version"></a> <a href="https://mekiks.com"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmekiks.com%2Fapi%2Fonline&query=%24.online&label=playing%20now&color=22c55e&style=flat-square" alt="Players online"></a> <a href="https://mekiks.com"><img src="https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Ubuntu-8a5533?style=flat-square" alt="Windows, macOS and Ubuntu"></a> <a href="https://mekiks.com"><img src="https://img.shields.io/badge/price-free-8a5533?style=flat-square" alt="Free"></a>
 
 <br>
 
@@ -96,13 +96,13 @@ Bugs get fixed fastest when someone reports them, and every feature here started
 
 <div align="center">
 
-<a href="https://mekiks.com/download"><img src="https://mekiks.com/mekiks-cheer.webp" width="200" alt=""></a>
+<a href="https://mekiks.com"><img src="https://mekiks.com/mekiks-cheer.webp" width="200" alt=""></a>
 
 ### Ready to play?
 
-Download it, sign in, hit play. It updates itself from there.
+It lives at **[mekiks.com](https://mekiks.com)**, where the button hands you the build for the computer you are on. Sign in, hit play; it updates itself from there.
 
-<a href="https://mekiks.com/download"><img src="https://img.shields.io/badge/Download%20MekiksClient-b06f42?style=for-the-badge" alt="Download MekiksClient"></a>
+<a href="https://mekiks.com"><img src="https://img.shields.io/badge/Get%20it%20at%20mekiks.com-b06f42?style=for-the-badge" alt="Get it at mekiks.com"></a>
 
 <sub>Windows 10 / 11 · macOS 11+ · Ubuntu · Free · You need your own Minecraft: Java Edition account.</sub>
 
